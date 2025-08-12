@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://achrafbetach.com](https://achrafbetach.com)
 
-- 📝 I regularly write articles on [https://www.achrafbetach.com/blog](https://www.achrafbetach.com/blog)
+- 📝 I regularly write articles on [https://achrafbetach.com/blog](https://www.achrafbetach.com/blog)
 
 - 💬 Ask me about **react, .net, algorithms**
 
 - 📫 How to reach me **hello@achrafbetach.com**
 
-- 📄 Know about my experiences [https://www.achrafbetach.com/images/achrafbetach_cv.pdf](https://www.achrafbetach.com/images/achrafbetach_cv.pdf)
+- 📄 Know about my experiences [https://achrafbetach.com/images/achrafbetach_cv.pdf](https://www.achrafbetach.com/images/achrafbetach_cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
